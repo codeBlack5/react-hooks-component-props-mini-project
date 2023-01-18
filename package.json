@@ -36,5 +36,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeBlack5/react-hooks-component-props-mini-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeBlack5/react-hooks-component-props-mini-project/issues"
+  },
+  "homepage": "https://github.com/codeBlack5/react-hooks-component-props-mini-project#readme"
 }
